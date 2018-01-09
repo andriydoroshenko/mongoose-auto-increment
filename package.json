@@ -1,6 +1,6 @@
 {
   "name": "mongoose-auto-increment-uniq-scope",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This plugin allows you to auto-increment any field on any mongoose schema that you wish and have uniq connection scope for multi mongoose db",
   "repository": {
     "type": "git",
