@@ -170,4 +170,4 @@ exports.getPlugin = function (connection) {
         next();
     });
   };
-}
+};
